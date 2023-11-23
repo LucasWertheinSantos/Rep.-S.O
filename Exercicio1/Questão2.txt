@@ -1,0 +1,3 @@
+Sim, da para ver a variação do tempo de resposta dirante a simulação de escalonamento. Pois a aplicação cheddar torna  isso possível através da apresentação dos gráficos.
+
+O menor tempo de resposta é possível de ser observado durante a execução da tarefa 1. Porque a task1 é a que possui maior prioridade, logo sempre que for necessário executala ela irá interromper a tarefa atual para sobrepor.
