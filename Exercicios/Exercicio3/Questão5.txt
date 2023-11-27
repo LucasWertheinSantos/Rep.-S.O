@@ -1,0 +1,1 @@
+Os pores tempos de resposta da tarefa 1 serão os mais próximos do tempo de inicialização , já os piores da tarefa 2 serão os mais próximos do fim de execução. Sim, é possível observar o praso perdido.

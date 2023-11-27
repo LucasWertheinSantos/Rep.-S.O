@@ -1,0 +1,1 @@
+Ambas as tarefas não irão possuir pior tempo de resposta, uma vez que em todos os estagios as duas possuirão o mesmo tempo de resposta.

@@ -1,0 +1,2 @@
+A melhor política de escalonamento dependerá da necessidade do usuário, porém levando em consideração que ambas possuem perdas iguais e que a LLF possui melhor tempo de resposta por tarefa,
+de forma resumida pode-se considerar a LLF como melhor escolha.

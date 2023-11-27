@@ -1,0 +1,4 @@
+A política de escalonamento EDF possui muito menos trocas de processamento e números de preempções quando comparada à política de LLF.
+Como ponto em comum entre as políticas de escalonamento utilizadas, é possível observar a questão da perca de processamento , uma vez que tanto
+na EDF quanto na LLF são iguais. 
+E como diferença, a LLF em relação à EDF  possui um sistema que consegue diminuir bastante a perca de tempo de resposta de cada tarefa.
