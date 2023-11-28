@@ -1,0 +1,3 @@
+T2 desbloqueia S no tempo 2 e bloqueia no tempo 4.
+Já T1 bloqueia S nos tempo 1, 14 e 15 e desbloqueia
+nos tempos 12, 13, 23 e 24

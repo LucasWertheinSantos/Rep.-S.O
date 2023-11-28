@@ -1,0 +1,1 @@
+É possível observar nessa nova simulação que a task T2 possui uma maior interação com o bloqueio e desbloqueio de S, uma vez que ela realiza mais vezes ambas as tarefas.
